@@ -1,0 +1,35 @@
+{
+  "WooCommerce": {
+    "url": "https://brassyacademy.com/bestsilver/",
+    "consumerKey": "ck_31b9a349e7535286851a34f78067f2f398294531",
+    "consumerSecret": "cs_a8d8bae2806095dc22de734e7f8325f5b684d565"
+  },
+  "HorizonLayout": [
+    {
+      "imageBanner": "https://img.freepik.com/free-photo/model-demonstrating-earrings-ring_7502-7042.jpg?w=740&t=st=1701331017~exp=1701331617~hmac=9ec75a55f0f2a4a8d4c4675cd2fd5418a6428df23f2375d8d6179eae98edafaa",
+      "layout": "bannerImage",
+      "height": 160,
+      "imageMode": "cover"
+    },
+    {
+      "layout": "circleCategory"
+    },
+    {
+      "name": "featureProducts",
+      "image": "",
+      "layout": "threeColumn"
+    },
+    {
+      "imageBanner": "https://img.freepik.com/free-photo/selective-focus-closeup-diamond-rings_181624-57691.jpg?size=626&ext=jpg&ga=GA1.1.346543282.1693765667&semt=ais",
+      "layout": "oneColumn",
+      "imageMode": "cover"
+    },
+    {
+      "layout": "twoColumn"
+    }
+  ],
+
+  "MainColor": "#607D8B"
+
+  
+}
