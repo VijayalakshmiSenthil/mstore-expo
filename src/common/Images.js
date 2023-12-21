@@ -4,7 +4,7 @@ const Images = {
   Logo: require('@images/logo.png'),
   defaultAvatar: require('@images/default_avatar.png'),
   categoryPlaceholder: require('@images/category_placehodler.png'),
-  splashScreen: require('@images/jewel-logo.png'),
+  splashScreen: require('@images/splash_screen.png'),
 
   defaultPayment: require('@images/placeholderImage.png'),
   Page1: require('@images/page1.png'),
