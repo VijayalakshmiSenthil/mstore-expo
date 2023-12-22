@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Mstore",
-    "slug": "bestsilver",
+    "slug": "best-silver",
     "version": "5.0.0",
     "orientation": "portrait",
     "icon": "./assets/jewel-logo.png",
@@ -31,9 +31,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "491e1fac-2a4b-46ca-83fd-28936a10dbd9"
+        "projectId": "2a7cf8cb-e462-4910-bd2f-bcbf9c78da3d"
       }
     },
-    "owner": "vijisenthil"
+    "owner": "viji7"
   }
 }
