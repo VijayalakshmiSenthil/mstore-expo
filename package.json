@@ -2,7 +2,7 @@
   "name": "mstore_expo",
   "description": "MStore Pro - Complete React Native template for e-commerce",
   "author": "InpireUI",
-  "version": "5.0.0",
+  "version": "1.22.21",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
@@ -32,6 +32,7 @@
     "expo-facebook": "~12.2.0",
     "expo-font": "~11.1.1",
     "expo-linear-gradient": "~12.1.2",
+    "expo-splash-screen": "~0.20.5",
     "expo-status-bar": "~1.4.4",
     "expo-updates": "~0.16.4",
     "firebase": "9.6.8",
@@ -81,9 +82,8 @@
     "urijs": "^1.19.11",
     "validate.js": "^0.13.1",
     "wpapi": "^1.2.2",
-    "yarn": "^1.22.21",
-    "yup": "^1.1.1",
-    "expo-splash-screen": "~0.20.5"
+    "yarn": "^1.22.19",
+    "yup": "^1.1.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
