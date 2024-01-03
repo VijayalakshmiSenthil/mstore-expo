@@ -9141,7 +9141,7 @@ react-native-gesture-handler@~2.9.0:
 
 react-native-gradle-plugin@^0.71.19:
   version "0.71.19"
-  resolved "https://registry.npmjs.org/react-native-gradle-plugin/-/react-native-gradle-plugin-0.71.19.tgz"
+  resolved "https://registry.yarnpkg.com/react-native-gradle-plugin/-/react-native-gradle-plugin-0.71.19.tgz#3379e28341fcd189bc1f4691cefc84c1a4d7d232"
   integrity sha512-1dVk9NwhoyKHCSxcrM6vY6cxmojeATsBobDicX0ZKr7DgUF2cBQRTKsimQFvzH8XhOVXyH8p4HyDSZNIFI8OlQ==
 
 react-native-image-pan-zoom@^2.1.12:
@@ -9237,7 +9237,8 @@ react-native-screens@~3.20.0:
 
 "react-native-scrollable-tab-view@https://github.com/ptomasroos/react-native-scrollable-tab-view.git":
   version "1.1.0"
-  resolved "git+https://github.com/ptomasroos/react-native-scrollable-tab-view.git#583a66f7fd3eb2cac1a05c71d7167d78a8ad9de6"  dependencies:
+  resolved "git+https://github.com/ptomasroos/react-native-scrollable-tab-view.git#583a66f7fd3eb2cac1a05c71d7167d78a8ad9de6"
+  dependencies:
     "@react-native-community/viewpager" "3.3.0"
     create-react-class "^15.6.2"
     deprecated-react-native-prop-types "^2.3.0"
