@@ -27,7 +27,7 @@
     "crypto-js": "4.1.1",
     "currency-formatter": "1.5.9",
     "deprecated-react-native-prop-types": "^4.1.0",
-    "expo": "^49.0.0",
+    "expo": "^49.0.21",
     "expo-apple-authentication": "~6.0.1",
     "expo-constants": "~14.2.1",
     "expo-facebook": "~12.2.0",
